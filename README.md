@@ -12,13 +12,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Use Cases](https://img.shields.io/badge/usecases-29-blue?style=flat-square)
-![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
+![Last Update](https://img.shields.io/github/last-commit/fendouai/awesome-openclaw-usecases-Chinese?label=Last%20Update&style=flat-square)
 </div>
 
 # Awesome OpenClaw 使用案例
 
 > **⚠️ 翻译版本声明**  
-> 本文档为社区翻译的中文版本，可能存在滞后。如发现内容过时，请查阅[原始英文 README](README.md) 获取最新信息。
+> 本文档为社区翻译的中文版本，可能存在滞后。如发现内容过时，请查阅[原始英文 README](README_EN.md) 获取最新信息。
 
 ---
 
@@ -32,7 +32,7 @@
 |------|-------------|
 | [每日 Reddit 摘要](usecases/daily-reddit-digest.md) | 根据你的偏好，总结你喜爱的 subreddit 的精选摘要。 |
 | [每日 YouTube 摘要](usecases/daily-youtube-digest.md) | 获取你关注频道的每日新视频摘要 —— 不错过你关注创作者的任何内容。 |
-| [X 账号分析](usecases/x-account-analysis.md) | 获取你的 X 账号的定性分析。|
+| [X 账号分析](usecases/x-account-analysis.md) | 结合推文搜索、关注者导出、账号监控和需确认的发帖路径，获取 X 账号定性分析。 |
 | [多源科技新闻摘要](usecases/multi-source-tech-news-digest.md) | 自动聚合和分发来自 109+ 来源（RSS、Twitter/X、GitHub、网页搜索）的质量评分科技新闻。 |
 
 ## 创意与构建
@@ -99,5 +99,6 @@
 
 ---
 
-**原文链接**: [README.md](README.md)  
+**原文链接**: [README_EN.md](README_EN.md)
+
 **最后同步**: 2026-02-18
